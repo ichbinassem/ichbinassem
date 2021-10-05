@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ichbinassem
-- 👀 I’m interested in Artificail Engineering 
+- 👀 I’m interested in Artificial Engineering 
 - 🌱 I’m currently enrolled in Minerva University
 - 💞️ I’m looking to collaborate on TechProjects 
 - 📫 How to reach me assem@uni.minerva.edu
